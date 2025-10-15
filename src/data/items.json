@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "id": "ITEM-0001",
+            "title": "Fix chart",
+            "category": "B",
+            "status": "New",
+            "date": "2025-09-30",
+            "amount": 79722
+        },
+        {
+            "id": "ITEM-0002",
+            "title": "Deploy API",
+            "category": "A",
+            "status": "Blocked",
+            "date": "2025-10-02",
+            "amount": 85657
+        },
+        {
+            "id": "ITEM-0003",
+            "title": "Analyze dashboard",
+            "category": "B",
+            "status": "Completed",
+            "date": "2025-09-27",
+            "amount": 22425
+        },
+        {
+            "id": "ITEM-0004",
+            "title": "Fix workflow",
+            "category": "C",
+            "status": "In Progress",
+            "date": "2025-09-16",
+            "amount": 90692
+        },
+        {
+            "id": "ITEM-0005",
+            "title": "Design API",
+            "category": "A",
+            "status": "New",
+            "date": "2025-09-15",
+            "amount": 33283
+        }
+    ]
+}
